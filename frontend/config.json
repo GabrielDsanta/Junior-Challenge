@@ -1,0 +1,7 @@
+{
+  "dev-host": "http://localhost:3000",
+  "qa-host": "",
+  "test-host": "http://localhost:3000",
+  "staging-host": "http://localhost:3000",
+  "environment": "development"
+}
